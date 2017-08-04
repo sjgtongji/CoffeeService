@@ -1,0 +1,3 @@
+﻿11-05 23:04:33.111 INFO  InvokeAbnormal - Invoke_Interface:GetPayUrl=9852,InvokeStartTime=2016-11-05 23:03:22:037
+InvokeParas:GetPayUrlRequestDto={ExtensionData: NULL, OrderAmount: 115200.0000, OurOrderId: "51e12f47-f1ec-48c8-92d8-05f6098ad8eb", Parameters: {notify_url: "http://m.fg114.com/appwap/TimeRealBooking/RemotePayWeiXinNotify/51e12f47-f1ec-48c8-92d8-05f6098ad8eb/8/", subject: "订单", Body: "订单", detail: "订单", MemberId: "1", CashierCode: "", openid: "WeiXinOpenId"}, PayMode: 8, PayOrderId: "51e12f47-f1ec-48c8-92d8-05f6098ad8eb", ProductId: "WX", SaleChannelApplicationId: "WX"}
+	AsyncOpen=144	invoke=9692

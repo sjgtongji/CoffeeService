@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A1F5F818-3581-4F85-9017-6CB9DA8A3612}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>XMS.Inner.Coffee.Model</RootNamespace>
+    <AssemblyName>XMS.Inner.Coffee.Model</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="XMS.Core">
+      <HintPath>..\..\Dll\XMS.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DTOBase.cs" />
+    <Compile Include="DTO\AddAddressDTO.CS" />
+    <Compile Include="DTO\AddBusinessHourWeekDTO.cs" />
+    <Compile Include="DTO\AddCBannerDTO.cs" />
+    <Compile Include="DTO\AddCCashCouponDetailDTO.cs" />
+    <Compile Include="DTO\AddCCashCouponDTO.cs" />
+    <Compile Include="DTO\AddCDistributionCoordinateDTO.cs" />
+    <Compile Include="DTO\AddCDistributionManagerDTO.cs" />
+    <Compile Include="DTO\AddMemberAddressDTO.cs" />
+    <Compile Include="DTO\AddOrderDTO.CS" />
+    <Compile Include="DTO\AddOrderResultDTO.CS" />
+    <Compile Include="DTO\AddOrUpdateCommodityCategoryDTO.CS" />
+    <Compile Include="DTO\AddOrUpdateCommodityDTO.cs" />
+    <Compile Include="DTO\AddOrUpdateCommodityPropertyDTO.cs" />
+    <Compile Include="DTO\AddOrUpdateCouponDTO.cs" />
+    <Compile Include="DTO\AddOrUpdateCRestaurantDTO.cs" />
+    <Compile Include="DTO\AddOrUpdateRestaurantDTO.cs" />
+    <Compile Include="DTO\AddOrUpdatetPropertyCategoryDTO.cs" />
+    <Compile Include="DTO\AddResCoordinateDTO.cs" />
+    <Compile Include="DTO\AddRestaurantDTO.CS" />
+    <Compile Include="DTO\BusinessHourWeekBaseDTO.cs" />
+    <Compile Include="DTO\BusinessHourWeekDTO.cs" />
+    <Compile Include="DTO\BusinessHourWeekType.cs" />
+    <Compile Include="DTO\CBannerDTO.cs" />
+    <Compile Include="DTO\CCashCouponDetailDTO.cs" />
+    <Compile Include="DTO\CCashCouponDTO.cs" />
+    <Compile Include="DTO\CCommodityCategoryDTO.cs" />
+    <Compile Include="DTO\CCommodityDTO.CS" />
+    <Compile Include="DTO\CCommodityPropertyDTO.CS" />
+    <Compile Include="DTO\CCommodityPropertyInfoDTO.cs" />
+    <Compile Include="DTO\CCommodityRelationDTO.CS" />
+    <Compile Include="DTO\CCommodityWithPropertyDTO.cs" />
+    <Compile Include="DTO\CCouponDTO.CS" />
+    <Compile Include="DTO\CDistributionCoordinateDTO.cs" />
+    <Compile Include="DTO\CDistributionManagerDTO.cs" />
+    <Compile Include="DTO\CIntegralRecordDTO.cs" />
+    <Compile Include="DTO\CManagerDTO.cs" />
+    <Compile Include="DTO\CMemberAddressDTO.CS" />
+    <Compile Include="DTO\CMemberWeiXinDTO.CS" />
+    <Compile Include="DTO\CommodityCategoryInfoDTO.cs" />
+    <Compile Include="DTO\CommodityInfoDTO.cs" />
+    <Compile Include="DTO\COperationLogDTO.CS" />
+    <Compile Include="DTO\COrderCommodityRelationDTO.cs" />
+    <Compile Include="DTO\COrderDTO.cs" />
+    <Compile Include="DTO\CPropertyCategoryDTO.CS" />
+    <Compile Include="DTO\CResCoordinateDTO.cs" />
+    <Compile Include="DTO\CRestaurantDTO.CS" />
+    <Compile Include="DTO\CVerificationCodeDTO.CS" />
+    <Compile Include="DTO\EffectivePeriodDTO.cs" />
+    <Compile Include="DTO\GetAvailableCouponDTO.CS" />
+    <Compile Include="DTO\GoodsClassifyDTO.CS" />
+    <Compile Include="DTO\PayNotifyResult.CS" />
+    <Compile Include="DTO\PeriodOrder.cs" />
+    <Compile Include="DTO\ProcessPayNotifyRequestDto.CS" />
+    <Compile Include="DTO\PropertyCategoryInfoDTO.cs" />
+    <Compile Include="DTO\SignatureObjectDTO.cs" />
+    <Compile Include="DTO\UpdateBusinessHourWeekBaseDTO.cs" />
+    <Compile Include="DTO\UpdateBusinessHourWeekDTO.cs" />
+    <Compile Include="DTO\UpdateCBannerDTO.cs" />
+    <Compile Include="DTO\UpdateCCashCouponDetailDTO.cs" />
+    <Compile Include="DTO\UpdateCCashCouponDTO.cs" />
+    <Compile Include="DTO\UpdateCDistributionCoordinateDTO.cs" />
+    <Compile Include="DTO\UpdateCDistributionManagerDTO.cs" />
+    <Compile Include="Enum\EnumCOperationLog.CS" />
+    <Compile Include="Enum\EnumCouponType.CS" />
+    <Compile Include="POBase.cs" />
+    <Compile Include="PO\BusinessHourWeekPO.cs" />
+    <Compile Include="PO\CBannerPO.cs" />
+    <Compile Include="PO\CCashCouponDetailPO.cs" />
+    <Compile Include="PO\CCashCouponPO.cs" />
+    <Compile Include="PO\CCommodityCategoryPO.CS" />
+    <Compile Include="PO\CCommodityPO.CS" />
+    <Compile Include="PO\CCommodityPropertyPO.cs" />
+    <Compile Include="PO\CCommodityRelationPO.CS" />
+    <Compile Include="PO\CCommodityWithPropertyPO.cs" />
+    <Compile Include="PO\CCouponPO.CS" />
+    <Compile Include="PO\CDistributionCoordinatePO.cs" />
+    <Compile Include="PO\CDistributionManagerPO.cs" />
+    <Compile Include="PO\CIntegralRecordPO.cs" />
+    <Compile Include="PO\CManagerPO.CS" />
+    <Compile Include="PO\CMemberAddressPO.CS" />
+    <Compile Include="PO\CMemberWeiXinPO.cs" />
+    <Compile Include="PO\COperationLogPO.CS" />
+    <Compile Include="PO\COrderCommodityRelationPO.CS" />
+    <Compile Include="PO\COrderPO.cs" />
+    <Compile Include="PO\CPropertyCategoryPO.cs" />
+    <Compile Include="PO\CResCoordinatePO.cs" />
+    <Compile Include="PO\CRestaurantPO.cs" />
+    <Compile Include="PO\CVerificationCodePO.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Query\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

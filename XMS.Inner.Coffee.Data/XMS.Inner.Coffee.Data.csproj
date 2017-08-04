@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A583D884-CDC4-4014-9DBD-EE775F013587}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>XMS.Inner.Coffee.Data</RootNamespace>
+    <AssemblyName>XMS.Inner.Coffee.Data</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="XMS.Core">
+      <HintPath>..\..\Dll\XMS.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="EntityContextFactory.CS" />
+    <Compile Include="Managers\BusinessHourWeekPOManager.cs" />
+    <Compile Include="Managers\CBannerPOManager.cs" />
+    <Compile Include="Managers\CCashCouponDetailPOManager.cs" />
+    <Compile Include="Managers\CCashCouponPOManager.cs" />
+    <Compile Include="Managers\CCommodityCategoryPOManager.CS" />
+    <Compile Include="Managers\CCommodityPOManager.CS" />
+    <Compile Include="Managers\CCommodityPropertyPOManager.CS" />
+    <Compile Include="Managers\CCommodityRelationPOManager.CS" />
+    <Compile Include="Managers\CCommodityWithPropertyPOManager.CS" />
+    <Compile Include="Managers\CCouponPOManager.CS" />
+    <Compile Include="Managers\CDistributionCoordinatePOManager.cs" />
+    <Compile Include="Managers\CDistributionManagerPOManager.cs" />
+    <Compile Include="Managers\CIntegralRecordPOManager.cs" />
+    <Compile Include="Managers\CManagerPOManager.CS" />
+    <Compile Include="Managers\CMemberAddressPOManager.CS" />
+    <Compile Include="Managers\CMemberWeiXinPOManager.CS" />
+    <Compile Include="Managers\COperationLogPOManager.CS" />
+    <Compile Include="Managers\COrderCommodityRelationPOManager.CS" />
+    <Compile Include="Managers\COrderPOManager.CS" />
+    <Compile Include="Managers\CPropertyCategoryPOManager.CS" />
+    <Compile Include="Managers\CResCoordinatePOManager.cs" />
+    <Compile Include="Managers\CRestaurantPOManager.CS" />
+    <Compile Include="Managers\CVerificationCodePOManager.CS" />
+    <Compile Include="POManagerBase.CS" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sharding\COperationLogShardingStrategy.CS" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\XMS.Inner.Coffee.Model\XMS.Inner.Coffee.Model.csproj">
+      <Project>{a1f5f818-3581-4f85-9017-6cb9da8a3612}</Project>
+      <Name>XMS.Inner.Coffee.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

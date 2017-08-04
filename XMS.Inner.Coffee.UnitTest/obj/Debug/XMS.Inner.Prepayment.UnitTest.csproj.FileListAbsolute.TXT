@@ -1,0 +1,129 @@
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\conf\AppSettings.config
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\conf\Cache.config
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\conf\ConnectionStrings.config
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\conf\EntityModel.config
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\conf\ErrorCodes.config
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\conf\Log.config
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\conf\Messaging.config
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\conf\ServiceReferences.Config
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\conf\Services.config
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\XMS.Inner.Coffee.UnitTest.dll.config
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\XMS.Inner.Coffee.UnitTest.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\XMS.Inner.Coffee.UnitTest.pdb
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\XMS.Core.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\XMS.Inner.Coffee.Business.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\XMS.Inner.Coffee.Data.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\XMS.Inner.Coffee.Model.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\XMS.Inner.Coffee.Service.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\log4net.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\Castle.Windsor.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\Castle.Core.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\RabbitMQ.Client.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\MongoDB.Driver.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\MongoDB.Bson.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\MongoDB.Driver.Core.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\Enyim.Caching.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\ZooKeeperNet.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\XMS.Inner.Coffee.Business.pdb
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\XMS.Inner.Coffee.Data.pdb
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\XMS.Inner.Coffee.Model.pdb
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\XMS.Inner.Coffee.Service.pdb
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\bin\Debug\XMS.Core.xml
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\obj\Debug\XMS.Inner.Coffee.UnitTest.csprojResolveAssemblyReference.cache
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\obj\Debug\XMS.Inner.Coffee.UnitTest.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Prepaid.UnitTest\obj\Debug\XMS.Inner.Coffee.UnitTest.pdb
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\AppSettings.config
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\Cache.config
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\ConnectionStrings.config
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\EntityModel.config
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\ErrorCodes.config
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\Log.config
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\Messaging.config
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\ServiceReferences.Config
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\Services.config
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.UnitTest.dll.config
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.UnitTest.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.UnitTest.pdb
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Core.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.Business.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.Data.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.Model.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.Service.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\log4net.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\Castle.Windsor.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\Castle.Core.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\RabbitMQ.Client.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\MongoDB.Driver.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\MongoDB.Bson.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\MongoDB.Driver.Core.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\Enyim.Caching.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\ZooKeeperNet.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.Business.pdb
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.Data.pdb
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.Model.pdb
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.Service.pdb
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Core.xml
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\obj\Debug\XMS.Inner.Coffee.UnitTest.csprojResolveAssemblyReference.cache
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\obj\Debug\XMS.Inner.Coffee.UnitTest.dll
+D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Prepaid\XMS.Inner.Coffee.UnitTest\obj\Debug\XMS.Inner.Coffee.UnitTest.pdb
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\AppSettings.config
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\Cache.config
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\ConnectionStrings.config
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\EntityModel.config
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\ErrorCodes.config
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\Log.config
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\Messaging.config
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\ServiceReferences.Config
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\Services.config
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.UnitTest.dll.config
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.UnitTest.dll
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.UnitTest.pdb
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Core.dll
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.Business.dll
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.Data.dll
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.Model.dll
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.Service.dll
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Portal.RealTimeBooking.Proxy.dll
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\MessageLogAPI.dll
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\log4net.dll
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\Castle.Windsor.dll
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\Castle.Core.dll
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\RabbitMQ.Client.dll
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\MongoDB.Driver.dll
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\MongoDB.Bson.dll
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\MongoDB.Driver.Core.dll
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\Enyim.Caching.dll
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\ZooKeeperNet.dll
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.Business.pdb
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.Data.pdb
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.Model.pdb
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.Service.pdb
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Core.xml
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Portal.RealTimeBooking.Proxy.pdb
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\bin\Debug\MessageLogAPI.pdb
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\obj\Debug\XMS.Inner.Coffee.UnitTest.csprojResolveAssemblyReference.cache
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\obj\Debug\XMS.Inner.Coffee.UnitTest.dll
+d:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\InnerWorkspace\Services\XMS.Inner.Coffee\XMS.Inner.Coffee.UnitTest\obj\Debug\XMS.Inner.Coffee.UnitTest.pdb
+E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.UnitTest\obj\Debug\XMS.Inner.Coffee.UnitTest.csprojResolveAssemblyReference.cache
+E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.UnitTest\obj\Debug\XMS.Inner.Coffee.UnitTest.dll
+E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.UnitTest\obj\Debug\XMS.Inner.Coffee.UnitTest.pdb
+E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\AppSettings.config
+E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\Cache.config
+E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\ConnectionStrings.config
+E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\EntityModel.config
+E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\ErrorCodes.config
+E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\Log.config
+E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\Messaging.config
+E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\ServiceReferences.Config
+E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.UnitTest\bin\Debug\conf\Services.config
+E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.UnitTest.dll.config
+E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.UnitTest.dll
+E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.UnitTest.pdb
+E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.Business.dll
+E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.Data.dll
+E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.Model.dll
+E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.Service.dll
+E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.Business.pdb
+E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.Data.pdb
+E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.Model.pdb
+E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.UnitTest\bin\Debug\XMS.Inner.Coffee.Service.pdb

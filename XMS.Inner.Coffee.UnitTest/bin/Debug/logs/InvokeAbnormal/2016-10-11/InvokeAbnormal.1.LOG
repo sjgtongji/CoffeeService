@@ -1,0 +1,15 @@
+﻿09-29 10:01:28.982 INFO  InvokeAbnormal - Invoke_Cache:Get=2702,InvokeStartTime=2016-09-29 10:01:25:851
+InvokeParas:35
+
+09-29 10:01:31.143 INFO  InvokeAbnormal - Invoke_Cache:Get=2359,InvokeStartTime=2016-09-29 10:01:28:650
+InvokeParas:35
+
+09-29 10:01:33.206 INFO  InvokeAbnormal - Invoke_Cache:Set=46,InvokeStartTime=2016-09-29 10:01:31:153
+InvokeParas:35
+
+09-29 10:01:33.206 INFO  InvokeAbnormal - Invoke_Method:GetSubContractByContractIdFromCache=2551,InvokeStartTime=2016-09-29 10:01:28:650
+InvokeParas:ContractId:35
+	GetSubContractCacheItemByContractID=2361	GetSubContractByContractIdFromDB=140	SetSubContractCacheItemByContractID=50
+09-29 10:01:33.207 INFO  InvokeAbnormal - Invoke_Method:GetContractByIdFromCache=5423,InvokeStartTime=2016-09-29 10:01:25:845
+InvokeParas:ContractId:35
+	GetContractCacheItem=2724	GetContractByIDFromDB=78	GetSubContractByContractIdFromCache=2551	GetValidSubContrac=0	GetAuditSubContrac=0	GetAccountByIdFromCache=67

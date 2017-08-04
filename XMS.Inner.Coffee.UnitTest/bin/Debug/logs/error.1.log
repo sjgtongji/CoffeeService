@@ -1,0 +1,1595 @@
+08-02 19:55:20.662 WARN  Release  Cache    - Cache_Region_Coffee_Contract_3：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-02 19:55:22.915 WARN  Release  Cache    - Cache_Region_Coffee_Contract_3：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-02 20:12:02.705 WARN  Release  Cache    - Cache_Region_Coffee_Contract_9：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-02 20:12:04.929 WARN  Release  Cache    - Cache_Region_Coffee_Contract_9：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-03 10:13:59.701 WARN  Release  Cache    - Cache_Region_Coffee_Contract_16：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 10:15:36.540 WARN  Release  Cache    - Cache_Region_Coffee_Contract_17：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 10:16:56.819 WARN  Release  Cache    - Cache_Region_Coffee_Contract_18：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 10:18:46.091 WARN  Release  Cache    - Cache_Region_Coffee_Contract_19：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 11:05:15.122 WARN  Release  Cache    - Cache_Region_Coffee_Contract_23：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 11:07:12.106 WARN  Release  Cache    - Cache_Region_Coffee_Contract_24：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 13:55:00.666 WARN  Release  Cache    - Cache_Region_Coffee_Contract_25：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 15:16:22.428 WARN  Release  Cache    - Cache_Region_Coffee_Contract_33：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 15:17:40.170 WARN  Release  Cache    - Cache_Region_Coffee_Contract_33：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-03 15:45:08.405 WARN  Release  Cache    - Cache_Region_Coffee_Contract_RES00001：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 15:45:48.352 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 15:45:48.453 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-03 15:45:48.454 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-03 15:49:11.482 WARN  Release  Cache    - Cache_Region_Coffee_Contract_RES00001：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 15:49:16.584 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 15:49:16.693 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-03 15:49:16.695 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-03 15:53:22.988 WARN  Release  Cache    - Cache_Region_Coffee_Contract_RES00001：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 15:53:28.849 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 15:53:28.973 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-03 15:53:28.974 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-03 15:55:18.620 WARN  Release  Cache    - Cache_Region_Coffee_Contract_RES00001：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 15:55:21.120 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 15:55:21.220 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-03 15:55:21.221 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-03 16:08:49.736 WARN  Release  Cache    - Cache_Region_Coffee_Contract_RES00001：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 16:08:51.972 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 16:08:52.069 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-03 16:08:52.070 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-03 16:18:16.043 WARN  Release  Cache    - Cache_Region_Coffee_Contract_RES00001：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 16:18:18.342 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 16:18:18.429 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-03 16:18:18.430 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-03 16:22:21.305 WARN  Release  Cache    - Cache_Region_Coffee_Contract_RES00001：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 16:22:23.574 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 16:22:23.673 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-03 16:22:23.674 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-03 16:23:29.999 WARN  Release  Cache    - Cache_Region_Coffee_Contract_RES00001：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 16:23:32.296 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 16:23:32.427 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-03 16:23:32.429 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-03 17:30:15.550 WARN  Release  Cache    - Cache_Region_Coffee_Contract_2：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 17:30:17.813 WARN  Release  Cache    - Cache_Region_Coffee_Contract_2：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-03 17:31:25.500 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 17:31:25.501 WARN  Release  Cache    - Cache_Region_Coffee_Contract_2：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 17:36:35.104 WARN  Release  Cache    - Cache_Region_Coffee_Contract_2：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-03 17:36:37.361 WARN  Release  Cache    - Cache_Region_Coffee_Contract_2：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-08 16:33:56.940 WARN  Release  Cache    - Cache_Region_Coffee_Contract_I37G26J57807：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-08 16:34:01.259 WARN  Release  Cache    - Cache_Region_Coffee_Contract_39：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-08 16:34:01.365 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-08 16:34:01.367 WARN  Release  Cache    - Cache_Region_Coffee_Contract_39：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-11 09:17:22.170 WARN  Release  Cache    - Cache_Region_Coffee_Contract_I37G26J57807：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-11 09:17:24.382 WARN  Release  Cache    - Cache_Region_Coffee_Contract_39：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-11 09:17:24.544 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-11 09:17:24.545 WARN  Release  Cache    - Cache_Region_Coffee_Contract_39：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-18 16:28:06.964 WARN  Release  Cache    - Cache_Region_Coffee_Contract_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-18 16:28:09.357 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-18 16:28:09.521 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-18 16:28:09.523 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-18 16:52:02.117 WARN  Release  Cache    - Cache_Region_Coffee_Contract_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-18 16:52:04.354 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-18 16:52:04.505 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-18 16:52:04.507 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-18 16:54:28.127 WARN  Release  Cache    - Cache_Region_Coffee_Contract_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-18 16:54:30.394 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-18 16:54:30.522 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-18 16:54:30.524 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-18 16:55:43.688 WARN  Release  Cache    - Cache_Region_Coffee_Contract_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-18 16:55:45.927 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-18 16:55:46.031 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-18 16:55:46.032 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-18 16:56:28.233 WARN  Release  Cache    - Cache_Region_Coffee_Contract_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-18 16:56:30.521 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-18 16:56:30.635 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-18 16:56:30.636 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-19 10:47:09.549 WARN  Release  Cache    - Cache_Region_Coffee_Contract_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-19 10:47:11.799 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-19 10:47:11.891 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-19 10:47:11.892 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-19 10:47:42.257 WARN  Release  Cache    - Cache_Region_Coffee_Contract_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-19 10:47:44.464 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-19 10:47:44.581 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-19 10:47:44.582 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-19 10:48:06.290 WARN  Release  Cache    - Cache_Region_Coffee_Contract_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-19 10:48:08.579 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-19 10:48:08.712 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-19 10:48:08.714 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-19 10:48:31.849 WARN  Release  Cache    - Cache_Region_Coffee_Contract_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-19 10:48:34.107 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-19 10:48:34.208 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-19 10:48:34.209 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-19 17:06:05.717 WARN  Release  Cache    - Cache_Region_Coffee_Contract_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-19 17:06:16.803 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-19 17:06:16.899 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-19 17:06:16.900 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-19 17:15:15.163 WARN  Release  Cache    - Cache_Region_Coffee_Contract_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-19 17:15:18.492 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-19 17:15:18.606 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-19 17:15:18.608 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-23 19:27:44.867 WARN  Release  Cache    - Cache_Region_Coffee_Contract_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-23 19:27:48.965 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+08-23 19:27:49.159 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+08-23 19:27:49.160 WARN  Release  Cache    - Cache_Region_Coffee_Contract_1：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+09-13 11:28:33.865 ERROR Release  default  - 消费记录(ID:102)结算未成功，原因：对应的合同不存在!
+09-26 14:42:11.583 WARN  Release  Cache    - Cache_Region_ResContract_ResID_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+09-26 14:42:32.848 WARN  Release  Cache    - Cache_Region_ResContract_ResID_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+09-26 14:47:39.328 WARN  Release  Cache    - Cache_Region_ResContract_ResID_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+09-26 14:47:55.186 WARN  Release  Cache    - Cache_Region_ResContract_ResID_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+09-26 14:49:47.831 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+09-26 14:49:47.832 WARN  Release  Cache    - Cache_Region_ResContract_ResID_AESH10000590：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+09-26 15:36:49.928 WARN  Release  Cache    - Cache_Region_ResContract_ResID_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+09-26 15:36:53.359 WARN  Release  Cache    - Cache_Region_ResContract_ResID_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+09-26 15:36:53.392 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+09-26 15:36:53.393 WARN  Release  Cache    - Cache_Region_Contract_ID_1：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+09-26 15:39:51.700 WARN  Release  Cache    - Cache_Region_ResContract_ResID_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+09-26 15:39:54.925 WARN  Release  Cache    - Cache_Region_ResContract_ResID_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+09-26 15:39:54.945 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+09-26 15:39:54.946 WARN  Release  Cache    - Cache_Region_Contract_ID_1：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+09-26 16:49:14.733 WARN  Release  Cache    - Cache_Region_ResContract_ResID_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+09-26 16:49:16.952 WARN  Release  Cache    - Cache_Region_ResContract_ResID_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+09-26 16:49:16.982 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+09-26 16:49:16.983 WARN  Release  Cache    - Cache_Region_Contract_ID_1：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+09-26 16:51:03.963 WARN  Release  Cache    - Cache_Region_ResContract_ResID_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+09-26 16:54:00.504 WARN  Release  Cache    - Cache_Region_ResContract_ResID_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+09-26 16:54:29.525 WARN  Release  Cache    - Cache_Region_ResContract_ResID_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+09-26 16:54:55.061 WARN  Release  Cache    - Cache_Region_ResContract_ResID_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+09-26 16:54:57.371 WARN  Release  Cache    - Cache_Region_ResContract_ResID_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+09-26 16:54:57.391 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+09-26 16:54:57.392 WARN  Release  Cache    - Cache_Region_Contract_ID_1：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+09-26 16:57:46.856 WARN  Release  Cache    - Cache_Region_ResContract_ResID_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+09-26 19:44:00.352 WARN  Release  Cache    - Cache_Region_ResContract_ResID_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+09-26 19:44:02.572 WARN  Release  Cache    - Cache_Region_ResContract_ResID_AESH10000590：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+09-26 19:44:02.592 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+09-26 19:44:02.593 WARN  Release  Cache    - Cache_Region_Contract_ID_1：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+09-29 10:01:28.567 WARN  Release  Cache    - Cache_Region_Contract_ID_35：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.163:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+09-29 10:01:31.010 WARN  Release  Cache    - Cache_Region_SubContract_ContractID_35：未能够从连接池中获取到连接对象，详细错误信息为：Pool is dead or disposed, returning null. 192.168.1.164:11211
+System.ServiceModel.EndpointNotFoundException
+   在 XMS.Core.Caching.Memcached.CustomBinaryNode.ExecuteOperation(IOperation op)
+   在 Enyim.Caching.Memcached.MemcachedNode.Enyim.Caching.Memcached.IMemcachedNode.Execute(IOperation op)
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformTryGet(String key, UInt64& cas, Object& value)
+   在 Enyim.Caching.MemcachedClient.TryGet(String key, Object& value)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItemInternal(String key)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.GetItem(String key)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.GetItem(String regionName, String key)
+
+09-29 10:01:31.199 WARN  Release  Cache    - 分布式缓存服务器不可用，详细错误信息为：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+09-29 10:01:31.201 WARN  Release  Cache    - Cache_Region_SubContract_ContractID_35：缓存服务器不可用
+System.ServiceModel.EndpointNotFoundException:未找到可用的缓存服务器节点
+
+   --- 内部异常堆栈跟踪的结尾 ---
+
+XMS.Core.Caching.CacheException
+   在 XMS.Core.Caching.Memcached.CustomMemcachedClient.PerformStore(StoreMode mode, String key, Object value, UInt32 expires, UInt64& cas, Int32& statusCode)
+   在 Enyim.Caching.MemcachedClient.Store(StoreMode mode, String key, Object value, TimeSpan validFor)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItemInternal(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.Memcached.MemcachedDistributeCache.SetItem(String key, Object value, TimeSpan timeToLive)
+   在 XMS.Core.Caching.DefaultCacheService.RemoteCacheImpl.SetItem(String regionName, String key, Object value, TimeSpan timeToLive)
+
+11-05 23:03:31.889 WARN  Release  ServiceRequest - 系统成功调用 XMS.Core.PayCenter.ICoffeePayCenterService.GetPayUrl(GetPayUrlRequestDto={ExtensionData: NULL, OrderAmount: 115200.0000, OurOrderId: "51e12f47-f1ec-48c8-92d8-05f6098ad8eb", Parameters: {notify_url: "http://m.fg114.com/appwap/TimeRealBooking/RemotePayWeiXinNotify/51e12f47-f1ec-48c8-92d8-05f6098ad8eb/8/", subject: "订单", Body: "订单", detail: "订单", MemberId: "1", CashierCode: "", openid: "WeiXinOpenId"}, PayMode: 8, PayOrderId: "51e12f47-f1ec-48c8-92d8-05f6098ad8eb", ProductId: "WX", SaleChannelApplicationId: "WX"})，请求的远程服务地址和结果情况如下：
+		调用耗时：	9849.563 ms
+	net.tcp://139.196.47.184:60020/paycenterservice
+
+		调用步骤：	
+			23:03:22.041	Intercept-Begin,BusyCount=1;IdleCount=0;Channel state:Created
+			23:03:22.041	AsyncOpen
+			23:03:22.043	AsyncOpen-Begin
+			23:03:22.048	Async-OpenChannel
+			23:03:22.184	Async-OpenChannel-Success
+			23:03:22.184	Async-Pulse
+			23:03:22.184	AsyncOpen-Sucess
+			23:03:22.187	AsyncOpen Complete
+			23:03:22.187	Invoke
+			23:03:31.879	Invoke Complete
+			23:03:31.879	CloseWrapper_WhenSuc
+			23:03:31.881	CloseWrapper_WhenSuc Complete
+		返回结果：	Code=200,
+				Value={ExtensionData: {}, PayOrderId: "84b4d8d1602a4536b771faad51902dad", dic: {return_code: "FAIL", return_msg: "openid is invalid"}},
+				Message=NULL
+
+11-21 14:36:37.273 ERROR Release  default  - Hanzi=测
+ConnectionString 属性尚未初始化。
+System.InvalidOperationException
+   在 SqlHelper.MySql.GetSingleDataRowMain(String sQuery, SqlParameter[] sqlParms, String sDbConn) 位置 D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\OuterWorkspace\CommonV4\SqlHelper\MySql.cs:行号 186
+   在 SqlHelper.MySql.GetSingleDataRow(String sQuery, Hashtable hashParas) 位置 D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\OuterWorkspace\CommonV4\SqlHelper\MySql.cs:行号 158
+   在 XMS.Inner.Coffee.Business.HanziStringPinyinManager.GetPinYinForCorrespondingHanzi(String sHanzi) 位置 E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.Business\Helper\HanziStringPinyin.cs:行号 144
+
+11-21 14:36:37.468 ERROR Release  default  - Hanzi=试
+ConnectionString 属性尚未初始化。
+System.InvalidOperationException
+   在 SqlHelper.MySql.GetSingleDataRowMain(String sQuery, SqlParameter[] sqlParms, String sDbConn) 位置 D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\OuterWorkspace\CommonV4\SqlHelper\MySql.cs:行号 186
+   在 SqlHelper.MySql.GetSingleDataRow(String sQuery, Hashtable hashParas) 位置 D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\OuterWorkspace\CommonV4\SqlHelper\MySql.cs:行号 158
+   在 XMS.Inner.Coffee.Business.HanziStringPinyinManager.GetPinYinForCorrespondingHanzi(String sHanzi) 位置 E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.Business\Helper\HanziStringPinyin.cs:行号 144
+
+11-21 14:54:55.939 ERROR Release  default  - Hanzi=测
+ConnectionString 属性尚未初始化。
+System.InvalidOperationException
+   在 SqlHelper.MySql.GetSingleDataRowMain(String sQuery, SqlParameter[] sqlParms, String sDbConn) 位置 D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\OuterWorkspace\CommonV4\SqlHelper\MySql.cs:行号 186
+   在 SqlHelper.MySql.GetSingleDataRow(String sQuery, Hashtable hashParas) 位置 D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\OuterWorkspace\CommonV4\SqlHelper\MySql.cs:行号 158
+   在 XMS.Inner.Coffee.Business.HanziStringPinyinManager.GetPinYinForCorrespondingHanzi(String sHanzi) 位置 E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.Business\Helper\HanziStringPinyin.cs:行号 144
+
+11-21 14:54:56.106 ERROR Release  default  - Hanzi=试
+ConnectionString 属性尚未初始化。
+System.InvalidOperationException
+   在 SqlHelper.MySql.GetSingleDataRowMain(String sQuery, SqlParameter[] sqlParms, String sDbConn) 位置 D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\OuterWorkspace\CommonV4\SqlHelper\MySql.cs:行号 186
+   在 SqlHelper.MySql.GetSingleDataRow(String sQuery, Hashtable hashParas) 位置 D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\OuterWorkspace\CommonV4\SqlHelper\MySql.cs:行号 158
+   在 XMS.Inner.Coffee.Business.HanziStringPinyinManager.GetPinYinForCorrespondingHanzi(String sHanzi) 位置 E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.Business\Helper\HanziStringPinyin.cs:行号 144
+
+11-21 15:47:34.962 ERROR Release  default  - Hanzi=测
+ConnectionString 属性尚未初始化。
+System.InvalidOperationException
+   在 SqlHelper.MySql.GetSingleDataRowMain(String sQuery, SqlParameter[] sqlParms, String sDbConn) 位置 D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\OuterWorkspace\CommonV4\SqlHelper\MySql.cs:行号 186
+   在 SqlHelper.MySql.GetSingleDataRow(String sQuery, Hashtable hashParas) 位置 D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\OuterWorkspace\CommonV4\SqlHelper\MySql.cs:行号 158
+   在 XMS.Inner.Coffee.Business.HanziStringPinyinManager.GetPinYinForCorrespondingHanzi(String sHanzi) 位置 E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.Business\Helper\HanziStringPinyin.cs:行号 144
+
+11-21 15:47:35.154 ERROR Release  default  - Hanzi=试
+ConnectionString 属性尚未初始化。
+System.InvalidOperationException
+   在 SqlHelper.MySql.GetSingleDataRowMain(String sQuery, SqlParameter[] sqlParms, String sDbConn) 位置 D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\OuterWorkspace\CommonV4\SqlHelper\MySql.cs:行号 186
+   在 SqlHelper.MySql.GetSingleDataRow(String sQuery, Hashtable hashParas) 位置 D:\changhao_fg114-PC_1753\changhao_fg114-PC_1753\OuterWorkspace\CommonV4\SqlHelper\MySql.cs:行号 158
+   在 XMS.Inner.Coffee.Business.HanziStringPinyinManager.GetPinYinForCorrespondingHanzi(String sHanzi) 位置 E:\项目管理\咖啡\05 代码\JD.Portal.CoffeeService\XMS.Inner.Coffee.Business\Helper\HanziStringPinyin.cs:行号 144
+
+11-28 16:48:23.095 ERROR Release  default  - _sBigFile:E:\项目管理\咖啡\09 其他\png/20161128//ceshi.png

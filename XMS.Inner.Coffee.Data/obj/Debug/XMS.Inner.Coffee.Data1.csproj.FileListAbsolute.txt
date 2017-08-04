@@ -1,0 +1,8 @@
+D:\项目管理\咖啡1\05 代码\CoffeeService\XMS.Inner.Coffee.Data1\bin\Debug\XMS.Inner.Coffee.Data1.dll
+D:\项目管理\咖啡1\05 代码\CoffeeService\XMS.Inner.Coffee.Data1\bin\Debug\XMS.Inner.Coffee.Data1.pdb
+D:\项目管理\咖啡1\05 代码\CoffeeService\XMS.Inner.Coffee.Data1\bin\Debug\XMS.Core.dll
+D:\项目管理\咖啡1\05 代码\CoffeeService\XMS.Inner.Coffee.Data1\bin\Debug\XMS.Inner.Coffee.Model.dll
+D:\项目管理\咖啡1\05 代码\CoffeeService\XMS.Inner.Coffee.Data1\bin\Debug\XMS.Inner.Coffee.Model.pdb
+D:\项目管理\咖啡1\05 代码\CoffeeService\XMS.Inner.Coffee.Data1\obj\Debug\XMS.Inner.Coffee.Data1.csprojResolveAssemblyReference.cache
+D:\项目管理\咖啡1\05 代码\CoffeeService\XMS.Inner.Coffee.Data1\obj\Debug\XMS.Inner.Coffee.Data1.dll
+D:\项目管理\咖啡1\05 代码\CoffeeService\XMS.Inner.Coffee.Data1\obj\Debug\XMS.Inner.Coffee.Data1.pdb
